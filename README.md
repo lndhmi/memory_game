@@ -1,5 +1,3 @@
-
-
 - Saisie du nom d’utilisateur et choix du niveau (Facile, Moyen, Difficile, Sans chrono)
   Les niveaux possibles:
      - Facile : peu de cartes, chrono plus long
